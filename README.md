@@ -21,21 +21,6 @@ Welcome to my project showcase! This repository includes hands-on data science a
 
 ---
 
-### 2. 📑 Resume Checker (NLP-based JD Matcher)
-**Objective**: Build a smart system that matches resumes against job descriptions using Natural Language Processing.
-
-**Key Features**:
-- Text cleaning and preprocessing
-- TF-IDF and cosine similarity for matching
-- Match score output with ranking
-- Future scope: GUI or web interface, semantic similarity using transformers
-
-**Tech Stack**: Python, NLTK, Scikit-learn, NLP, Streamlit (optional for UI)
-
-📁 [Project Folder](./Resume_Checker)
-
----
-
 ## 🔧 Tools & Technologies
 - **Languages**: Python
 - **Libraries**: Pandas, Scikit-learn, NLTK, Matplotlib, Seaborn
